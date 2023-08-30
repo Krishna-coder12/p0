@@ -1,1 +1,1 @@
-select * from pd_aggregate
+select * from pg_aggregate
